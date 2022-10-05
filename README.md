@@ -6,7 +6,7 @@ Working as frontend developer for 7+ years, interested in crypto
 * 🌍  I'm based in Ukraine/USA/Germany
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/cphr/)
 * ✉️  You can contact me at [sashayolo17@gmail.com](mailto:sashayolo17@gmail.com)
-* 🚀  I'm currently working on [ModelN](http://www.modeln.com)
+* 🚀  I'm currently working at [ModelN](http://www.modeln.com) / [Provectus](https://provectus.com/)
 * 🤝  I'm open to collaborating on any valuable/interesting projects
 
 ### Skills
